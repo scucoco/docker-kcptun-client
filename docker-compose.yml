@@ -1,0 +1,9 @@
+version: '2'
+services:
+  kcptun-client:
+    image: lotosbin/docker-kcptun-client
+    environment:
+      - TARGET_ADDR=xxx.xxx.xxx.xxx
+    ports:
+      - "28388:8388"
+    restart: always
