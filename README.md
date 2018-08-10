@@ -6,7 +6,7 @@
 [![hub.docker.com](http://dockeri.co/image/lotosbin/docker-kcptun-client)](https://hub.docker.com/r/lotosbin/docker-kcptun-client/)
 
 - docker kcptun client
-- [docker kcptun server](http://githuc.com/lotosbin/docker-kcptun-server)
+- [docker kcptun server](http://github.com/lotosbin/docker-kcptun-server)
 
 # Useage
  change docker-compose.yml 
