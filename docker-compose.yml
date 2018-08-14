@@ -5,5 +5,5 @@ services:
     environment:
       - TARGET_ADDR=13.230.137.183
     ports:
-      - ":28989"
+      - ":38989"
     restart: always
